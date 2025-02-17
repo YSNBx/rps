@@ -1,0 +1,14 @@
+.btn-container {
+	position: sticky;
+	top: 10px;
+	padding: 20px 20px;
+	z-index: 1000;
+	background-color: #80e6b3cc;
+}
+
+.btn {
+	margin: 10px;
+	padding: 0 20px;
+	font-size: 22px;
+	font-weight: bold;
+}
